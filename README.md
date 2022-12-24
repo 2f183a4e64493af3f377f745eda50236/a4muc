@@ -8,6 +8,10 @@ This README file is written in **Chinese (simplified) 简体中文**. For other 
 
 See <a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main/events.md">events.md</a> (English only)
 
+## 目录
+
+1. <a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main/materials">资源（海报、口号、标语、音乐等）</a>
+
 ## 什么是白纸革命？
 
 顾名思义，白纸革命，就是举着白纸的抗争。那么，人们为什么要举一张没有写任何字的白纸抗议呢？最直接的原因当然是没有言论自由！中共极力遏制人们表达任何不满，人们甚至不需要反共，哪怕只在网络上表达对具体的某件事的不满，就会被迅速删帖删文还有封号。当人们什么都不被允许表达的时候，一张什么都没有写的白纸，就是对什么都不让写的愤怒。
@@ -52,8 +56,6 @@ See <a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main
 ## 我们有什么诉求？
 
 ## 我可以做什么？
-
-## 目录
 
 ## 友情链接
 
