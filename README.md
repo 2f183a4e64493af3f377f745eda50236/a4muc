@@ -2,7 +2,7 @@
 
 This README file is written in **Chinese (simplified) 简体中文**. For other languages, please click the following links:
 
-<a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main/README.md">简体中文</a>	<a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main/README_OTHER_LANGUAGES/README_zh_TW.md">繁體中文</a>	<a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main/README_OTHER_LANGUAGES/README_en_US.md">English</a>	<a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main/README_OTHER_LANGUAGES/README_de_DE.md">Deutsch</a>
+<a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main/README.md">简体中文</a>	<a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main/README_OTHER_LANGUAGES/README_en_US.md">English</a>	<a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main/README_OTHER_LANGUAGES/README_de_DE.md">Deutsch</a>
 
 ## Events
 
@@ -51,13 +51,31 @@ See <a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main
 
 ### 海内外大规模爆发
 
+11月15日夜晚，乌鲁木齐示威者上街抗议，大量民众聚集在市政府广场，高举国旗唱国歌，要求解封。习近平却对人们的诉求不闻不问，却就所罗门群岛地震灾害向所罗门群岛总督致慰问电。26日，南京传媒学院学生举白纸喊出“人民万岁，逝者安息”，时任执行校长却恫吓学生要为自己当天所做的一切付出代价。一位女学生手举的白纸被一位男性上前拿走，旁观的学生问：“白纸能有什么攻击力啊？”这段视频随后在网上疯传，全国许多高校学生举白纸声援。这位举白纸的女生后来失联至今。
+
+26日晚至27日凌晨，上海乌鲁木齐中路发生抗议，更是有人直击要害，喊出“共产党下台！习近平下台！”的口号。警方在凌晨四点左右清场。27日中午又有民众再次聚集，高喊“放任”。同一天，北京亮马桥抗议，有市民喊出33年前八九民运的“It's my duty.”口号，还喊出“上海你好，我是北京”响应上海抗议。
+
+白纸革命也在全球许多城市爆发。在言论自由的海外，我们的抗议方式也更加多种多样，不仅仅是举白纸摆蜡烛，还有各种激动人心的演讲，各种涂鸦等艺术作品，还有人扮演大白或者戴着皇冠的小熊维尼……我们还与同样受到极权威胁的香港人、台湾人、维吾尔人、藏人、伊朗人等一同走上街头，相互声援。
+
 ### 我们仅仅在抗议封控吗？
+
+或许有一部分与我们一同抗争的朋友仅仅在抗议封控。但是也有许多人明白，封控和解封之后的乱象，最根本的原因是中共的独裁统治。正如前面提到，中共不允许人们发声批评，听不进人们的声音，也无视科学，把疫情防控政治化，还散播虚假资讯。中共的一意孤行影响的不仅仅是防疫政策，还有其他各方面的政策。如果我们看到国内解封了而停下来，乌鲁木齐的悲剧绝不是最后一次。况且，中共的解封方式也非常不遵从科学。
 
 ## 我们有什么诉求？
 
+不要核酸要吃饭，不要封控要自由：结束封控和动态清零，恢复正常社会生活。 
+
+不要谎言要尊严，不要文革要改革：言论集会自由，民主法治。允许公开悼念，不对国内抗议示威者追责。
+
+不要领袖要选票，不做奴才做公民：取消终身任期，罢免独裁国贼习近平，结束一党独裁，实行民主宪政。
+
 ## 我可以做什么？
 
-## 友情链接
+请大家说服身边的朋友，给朋友们“讲好中国故事”，让身边的朋友意识到中共已经非常不对劲了。
+
+已经意识到中共很不对劲的朋友们，只是意识到中共不对劲还不够，请勇敢地站出来发声、抗争！Your silence is violence!
+
+请在海外的朋友也向所在国家的朋友们、媒体、政客讲述我们的抗争故事，无论是我们的诉求还是我们所面临的困境。虽然许多人已经知道中共统治下的中国是人权洼地，但仍然缺少更深入的了解，尤其是最近所发生的事情。
 
 ## 欢迎投稿
 
