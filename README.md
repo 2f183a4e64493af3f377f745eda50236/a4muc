@@ -10,7 +10,7 @@ See <a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main
 
 ## 目录
 
-1. <a href="https://github.com/2f183a4e64493af3f377f745eda50236/a4muc/blob/main/materials">资源（海报、口号、标语、音乐等）</a>
+1. <a href="materials">资源（海报、口号、标语、音乐等）</a>
 
 ## 什么是白纸革命？
 
