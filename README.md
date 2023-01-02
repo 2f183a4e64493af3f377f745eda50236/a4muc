@@ -10,7 +10,7 @@ See <a href="events.md">events.md</a> (English and Chinese only)
 
 ## 目录
 
-1. <a href="materials">资源（海报、口号、标语、音乐等）</a>
+1. <a href="materials/materials.md">资源（海报、口号、标语、音乐等）</a>
 
 ## 什么是白纸革命？
 
