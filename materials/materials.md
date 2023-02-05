@@ -20,6 +20,7 @@
    - <a href="uyghur_tibet_hk_tw">维吾尔人、藏人、香港、台湾</a>
    - <a href="white_paper">举白纸</a>
    - <a href="women">女权</a>
+   - <a href="liwenliang">李文亮</a>
 
 2. <a href="flyer">传单</a>
 3. <a href="music">音乐</a>

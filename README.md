@@ -4,9 +4,9 @@ This README file is written in **Chinese (simplified) 简体中文**. For other 
 
 <a href="README.md">简体中文</a>	<a href="README_OTHER_LANGUAGES/README_en_US.md">English</a>	<a href="README_OTHER_LANGUAGES/README_de_DE.md">Deutsch</a>
 
-## Events
+## Our Events
 
-See <a href="events.md">events.md</a> (English and Chinese only)
+See <a href="events.md">events.md</a> (English and Chinese version only)
 
 ## 目录
 
@@ -79,7 +79,7 @@ See <a href="events.md">events.md</a> (English and Chinese only)
 
 ## 欢迎投稿
 
-现长期征集以下主题的素材：
+中共的罪行实在是罄竹难书，如果只有一个人或者一个小团队的努力，我们这个repo的补充速度将难以追上中共新的罪行产生速度。我们长期征集以下主题的素材，欢迎投稿（email地址见文末）：
 
 1. 目录中已经存在的主题
 2. 对已存在内容的补充、更正
@@ -98,7 +98,7 @@ See <a href="events.md">events.md</a> (English and Chinese only)
 - 中共帮助其他独裁政体，比如俄罗斯等
 - 中共如何破坏其他国家的民主，比如海外警务站等
 - 海内外中国人抗争面临的困境
-- 其他主题。中共实在是罄竹难书，罪行远远不止以上的主题。欢迎大家建议增加更多主题。
+- 其他主题。Again，中共的罪行实在是罄竹难书，罪行远远不止以上的主题。欢迎大家建议增加更多主题。
 - 以上各主题的外文翻译
 
 4. 关于其他国家的人抗争他们国家的独裁政府的故事，比如伊朗等。
