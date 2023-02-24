@@ -21,9 +21,13 @@
    - <a href="white_paper">举白纸</a>
    - <a href="women">女权</a>
    - <a href="liwenliang">李文亮</a>
-
 2. <a href="flyer">传单</a>
 3. <a href="music">音乐</a>
 4. <a href="slogan">标语、口号</a>
 5. <a href="speech_text">演讲稿</a>
 6. <a href="from_cloud">各种Cloud分享的资源</a>
+7. 大翻译运动
+   - <a href="the_great_translation_movement/ukraine">乌克兰</a>
+   - 伊朗（待补充）
+   - 德国（待补充）
+
