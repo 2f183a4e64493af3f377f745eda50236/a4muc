@@ -156,4 +156,4 @@
 
 ![IMG_6246](img/IMG_6246.JPG)
 
-<a href="tgtm_ukraine_en_2">Next Part (Part 2)</a>
+<a href="tgtm_ukraine_en_2.md">Next Part (Part 2)</a>

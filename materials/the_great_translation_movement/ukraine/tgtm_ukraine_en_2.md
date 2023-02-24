@@ -1,6 +1,6 @@
 # Translation of China's pro Putin propaganda (PART 2)
 
-<a href="tgtm_ukraine_en_1">Last Part (Part 1)</a>
+<a href="tgtm_ukraine_en_1,md">Last Part (Part 1)</a>
 
 ## \#1
 
